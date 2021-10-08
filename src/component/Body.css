@@ -1,0 +1,12 @@
+.flex__all{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex__left{
+    background-color:brown;
+    flex: 30%;
+}
+.flex__right{
+    background-color: rgb(80, 12, 12);
+    flex: 70%;
+}

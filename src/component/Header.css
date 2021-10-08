@@ -1,0 +1,25 @@
+.header{
+    background-color: gray;
+}
+.header p{
+    display: inline;
+}
+.header__all{
+    width: 80%;
+    margin: auto;
+}
+.girl__image{
+    background-color: transparent;
+    color: orange;
+    width: 60px;
+}
+
+.header__bar{
+    background-color: red;
+    text-align: center;
+    box-shadow: 5px 2px black;
+    float: right;
+    padding: 8px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+}

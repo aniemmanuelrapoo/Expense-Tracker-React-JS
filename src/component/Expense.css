@@ -1,0 +1,29 @@
+.ex{
+    padding: 20px;
+}
+.ex__display{
+    text-align: center;
+    color: #fff;
+}
+.ex__input{
+    padding: 10px 25px;
+    margin: 5px 20px;
+}
+.ex__price{
+    padding: 50px;
+}
+.ex__btn{
+    background-color: cyan;
+    color: #fff;
+    padding: 5px;
+    border-radius: 2px;
+}
+.ex__ex{
+    padding: 20px;
+}
+.color__brown{
+    background-color: rgb(207, 38, 74);
+}
+.ex__text{
+    padding: 10px;
+}
